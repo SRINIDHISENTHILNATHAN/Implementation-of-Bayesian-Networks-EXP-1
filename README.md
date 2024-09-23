@@ -135,4 +135,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/1164375c-7858-46a5-860e-b615652474cd)
 
 ## Result:
-Thus a Bayesian Network is generated using Python
+Thus a Bayesian Network is successfully generated using Python 
